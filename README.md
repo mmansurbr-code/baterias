@@ -1,6 +1,15 @@
 # Baterias: estudo para agenda de visitas na China
 
-Fabricantes de baterias e células para visitar na viagem de **fim de março / começo de abril de 2027**. A viagem é a mesma do roteiro de [robótica](https://github.com/mmansurbr-code/robotica).
+Fabricantes de baterias e células para visitar na viagem de **4 a 19 de abril de 2027**. A viagem é a mesma do roteiro de [robótica](https://github.com/mmansurbr-code/robotica) e termina na Canton Fair.
+
+**📅 [Cronograma completo da viagem, dia a dia](https://github.com/mmansurbr-code/robotica/blob/main/cronograma.md)**
+
+| Data | Visitas de baterias |
+|---|---|
+| **Seg 12/04** | 🔋 **KIJO**: escritório de Shenzhen, no mesmo parque da Dobot (à tarde) |
+| **Ter 13/04** | 🔋 **GAPSC** em Longhua (manhã) e **Lyrasom** em Songshan Lake, Dongguan (tarde) |
+| Qua 14/04 | Reserva: fábrica de packs da Lyrasom em Huizhou, ou ida e volta a Nanchang para a fábrica da KIJO |
+| **15–18/04** | 🏛️ **Canton Fair, fase 1**, em Guangzhou: novas energias, baterias e ferramentas |
 
 | Empresa | Foco | Onde visitar | Situação |
 |---|---|---|---|
@@ -47,22 +56,14 @@ Os três fornecedores ficam na região de Shenzhen e Dongguan, junto com a Dobot
   - Fábricas da KIJO em Jiangxi, a cerca de 1h30 de voo
   - Fábrica de células da Lyrasom em Mianyang (Sichuan), a cerca de 2h30 de voo
 
-### Bloco sugerido dentro do roteiro de Shenzhen
-
-| Dia | Cidade | Visitas |
-|---|---|---|
-| A | Shenzhen (Nanshan) | **Dobot** de manhã e **escritório da KIJO** à tarde, no mesmo parque |
-| B | Shenzhen (Longhua) → Dongguan | **GAPSC** (Longhua) de manhã e **Lyrasom** (Songshan Lake) à tarde |
-| C | Reserva | Fábrica de packs da Lyrasom (Huizhou) ou fornecedores locais |
-| D (opcional) | Nanchang / Jiujiang | Fábricas da KIJO |
-
-Evite os dias de 3 a 5 de abril, por causa do feriado de Qingming.
+As datas de cada visita estão no [cronograma](https://github.com/mmansurbr-code/robotica/blob/main/cronograma.md).
 
 ## Próximos passos
 
 - [ ] KIJO: confirmar qual é o 2º modelo importado e pedir visita ao escritório de Shenzhen
 - [ ] GAPSC: acompanhar a chegada das amostras (pedido de set/2026) e testar os packs para ferramentas
 - [ ] Lyrasom: fechar o resultado dos testes das células 32140 e 40140 e pedir a ficha de ciclos de vida
-- [ ] Alinhar as datas com o roteiro de robótica (Dobot, em Shenzhen)
+- [ ] Pedir confirmação das visitas: KIJO em 12/04, GAPSC e Lyrasom em 13/04
+- [ ] Canton Fair: listar expositores de baterias e armazenamento da fase 1 para visitar
 
 > Endereços e linhas de produto foram levantados em pesquisa na web em novembro de 2026. Confirme com cada empresa antes da viagem.
